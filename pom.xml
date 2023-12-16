@@ -10,9 +10,9 @@
 		<version>3.1.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mx.asc</groupId>
+	<groupId>com.mx.asc.log</groupId>
 	<artifactId>betterlog</artifactId>
-	<version>0.0.5</version>
+	<version>0.0.6</version>
 	<name>betterlog</name>
 	<description>libreria de logs mejorada</description>
 	<properties>
